@@ -1,6 +1,6 @@
 ## Thalita Alves
 ### Hello, Devs!!👋
-![octocat-1661179957417-removebg-preview](https://user-images.githubusercontent.com/73598764/185957979-bf0dd72a-4343-4e3e-afda-2056ff1bd7ff.png)">
+<img align="right" width="250px" style="margin-top:-20px" src="https://user-images.githubusercontent.com/73598764/185957979-bf0dd72a-4343-4e3e-afda-2056ff1bd7ff.png">
 
 Tenho 21 anos, moro em Belo Horizonte/MG e sou apaixonada por tecnologia! Sou iniciante no universo da programação, amo um novo desafio, a meta é aprender e distribuir conhecimento !  ❤
 
