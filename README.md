@@ -15,7 +15,7 @@ Tenho 21 anos, moro em Belo Horizonte/MG e sou apaixonada por tecnologia! Sou in
 </br>
 <div display="inline-block">
  <p align="left">🤿 Faço parte da comunidade <a href="https://www.instagram.com/girls.intech/">Ânima - Girls in Tech</a>;</p>
-  <p align="left">👯  Participei do Projeto FavelaWare,uma iniciativa voltada para a formação de jovens programadores, de 15 a 22 anos <a href="https://favelaware.animahub.com.br/sobre">Projeto FavelaWare</a>;</p>
+  <p align="left">👯  Participei como instrutora discente no Projeto FavelaWare,uma iniciativa voltada para a formação de jovens programadores, de 15 a 22 anos <a href="https://favelaware.animahub.com.br/sobre">Projeto FavelaWare</a>;</p>
  <p align="left">📚 Tenho estudado Python e engenharia de software</p>
  
 </div>
