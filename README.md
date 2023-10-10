@@ -2,7 +2,7 @@
 ### Hello, Devs!!👋
 <img align="right" width="250px" style="margin-top:-20px" src="https://user-images.githubusercontent.com/73598764/185957979-bf0dd72a-4343-4e3e-afda-2056ff1bd7ff.png">
 
-Tenho 21 anos, moro em Belo Horizonte/MG e sou apaixonada por tecnologia! Sou iniciante no universo da programação, amo um novo desafio, a meta é aprender e distribuir conhecimento !  ❤
+Sou apaixonada por tecnologia! Sou iniciante no universo da programação, amo um novo desafio, a meta é aprender e distribuir conhecimento !  ❤
 
 ### 🖥️ Tecnologias e Ferramentas: 
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title = "PYTHON"/></code>
