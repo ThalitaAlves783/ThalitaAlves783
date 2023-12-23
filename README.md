@@ -16,7 +16,7 @@ Sou apaixonada por tecnologia! Sou iniciante no universo da programação, amo u
 <div display="inline-block">
  <p align="left">🤿 Faço parte da comunidade <a href="https://www.instagram.com/girls.intech/">Ânima - Girls in Tech</a>;</p>
   <p align="left">👯  Participei como instrutora discente no Projeto FavelaWare,uma iniciativa voltada para a formação de jovens programadores, de 15 a 22 anos <a href="https://favelaware.animahub.com.br/sobre">Projeto FavelaWare</a>;</p>
- <p align="left">📚 Tenho estudado Python e engenharia de software</p>
+ <p align="left">📚 Tenho estudado Python e engenharia de qualidade software</p>
  
 </div>
 
