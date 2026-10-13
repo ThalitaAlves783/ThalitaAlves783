@@ -46,7 +46,7 @@ Técnicas de teste (partição de equivalência, valor limite, tabela de decisã
 
 ### 📫 Vamos conversar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Thalita_Alves-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-PERFIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Thalita_Alves-0A66C2?logo=linkedin&logoColor=white)](linkedin.com/in/thalita-alves-qa/)
 
 <a href="https://github.com/ThalitaAlves783/">
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ThalitaAlves783&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
